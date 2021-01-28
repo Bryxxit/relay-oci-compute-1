@@ -1,7 +1,7 @@
 # oci-compute-step-instances-describe
 
 This [OCI Compute](https://www.oracle.com/cloud/compute/) step container lists the instances
-in an AWS region and sets an output, `instances`, to an array containing
+in an OCI region and sets an output, `instances`, to an array containing
 information about them.
 
 Optionally add filters to narrow the list of returned instances based on filter
