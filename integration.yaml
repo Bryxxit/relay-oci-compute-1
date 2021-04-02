@@ -22,7 +22,7 @@ version: v20210107
 
 # The shortest possible accurate description of this integration. Required. May
 # just be the name of the service.
-summary: Oracle Cloud infrastructure Compute Service
+summary: Oracle Cloud Infrastructure Compute
 
 # A paragraph or two describing what this integration does. Optional. Markdown.
 description: |
@@ -41,11 +41,11 @@ owner:
   url: https://bryxx.eu/
 
 # URL to this integration's Website. Optional.
-homepage: https://github.com/Bryxxit/relay-oci-compute
+homepage: https://github.com/relay-integrations/relay-oci-compute
 
 # URL to this integration's source code. Optional. If the homepage is a GitHub
 # link, may be inferred automatically.
-source: git://github.com/Bryxxit/relay-oci-compute.git
+source: git://github.com/relay-integrations/relay-oci-compute.git
 
 tags:
   - oci
